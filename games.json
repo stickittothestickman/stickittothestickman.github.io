@@ -3,5 +3,45 @@
         "name": "Stick It to the Stickman",
         "slug": "stick-it-to-the-stickman",
         "image": "/cache/data/image/game/stick-it-to-the-stickman/stickittothestickmangame-m186x186.webp"
+    },
+    {
+        "name": "Stickman Archero Fight",
+        "slug": "stickman-archero-fight",
+        "image": "/cache/data/image/game/stickman-archero-fight/stickman-archero-fight-m186x186.webp"
+    },
+    {
+        "name": "Stickman Racing",
+        "slug": "stickman-racing",
+        "image": "/cache/data/image/game/stickman-racing/stickman-racing-1200x1200-m186x186.webp"
+    },
+    {
+        "name": "Ragdoll Hit Stickman",
+        "slug": "ragdoll-hit-stickman",
+        "image": "/cache/data/image/game/ragdoll-hit-stickman/ragdoll-hit-stickman-m186x186.webp"
+    },
+    {
+        "name": "Icy Dash",
+        "slug": "icy-dash",
+        "image": "/cache/data/image/game/icy-dash/icy-dash-game-m186x186.webp"
+    },
+    {
+        "name": "Ragdoll Playground",
+        "slug": "ragdoll-playground",
+        "image": "/cache/data/image/game/ragdoll-playground/ragdoll-playground-m186x186.webp"
+    },
+    {
+        "name": "Ragdoll Hit",
+        "slug": "ragdoll-hit",
+        "image": "/cache/data/image/game/ragdoll-hit/ragdoll-hit-m186x186.webp"
+    },
+    {
+        "name": "Stickman Run",
+        "slug": "stickman-run",
+        "image": "/cache/data/image/no_image-m186x186.webp"
+    },
+    {
+        "name": "Stickman Dragon Fight",
+        "slug": "stickman-dragon-fight",
+        "image": "/cache/data/image/no_image-m186x186.webp"
     }
 ]
