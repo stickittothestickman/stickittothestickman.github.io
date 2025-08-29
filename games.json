@@ -37,11 +37,11 @@
     {
         "name": "Stickman Run",
         "slug": "stickman-run",
-        "image": "/cache/data/image/no_image-m186x186.webp"
+        "image": "/cache/data/image/game/stickman-run/stickman-run-m186x186.webp"
     },
     {
         "name": "Stickman Dragon Fight",
         "slug": "stickman-dragon-fight",
-        "image": "/cache/data/image/no_image-m186x186.webp"
+        "image": "/cache/data/image/game/stickman-dragon-fight/stickman-dragon-fight1-m186x186.webp"
     }
 ]
